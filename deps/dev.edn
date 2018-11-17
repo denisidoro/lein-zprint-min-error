@@ -1,0 +1,4 @@
+{:paths ["test"]
+
+ :deps
+ {midje                              {:mvn/version "1.9.1"}}}
